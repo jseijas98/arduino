@@ -1,0 +1,102 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "prueba_1",
+			"path": "prueba_1"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#bed8fd",
+			"activityBar.background": "#bed8fd",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#f94590",
+			"activityBarBadge.foreground": "#15202b",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#bed8fd",
+			"statusBar.background": "#8cbafc",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#5a9cfb",
+			"statusBarItem.remoteBackground": "#8cbafc",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#8cbafc",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#8cbafc99",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#8cbafc",
+		"http.proxyStrictSSL": false,
+		"workbench.iconTheme": "material-icon-theme",
+			"prettier.documentSelectors": ["**/*.astro"],
+			"[astro]": {
+			  "editor.defaultFormatter": "esbenp.prettier-vscode"
+			}
+		  ,
+		"files.associations": {
+			"*.html": "html"
+		},
+		"[typescript]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"[html]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"terminal.integrated.env.windows": {},
+		"console-ninja.featureSet": "Community",
+		"codeium.enableConfig": {
+			"*": true,
+			"markdown": true
+		},
+		"workbench.editor.empty.hint": "hidden",
+		"[css]": {
+			"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+		},
+		"git.openRepositoryInParentFolders": "never",
+		"powermode.enabled": true,
+		"powermode.combo.counterSize": 1,
+		"powermode.shake.enabled": false,
+		"powermode.combo.counterEnabled": "show",
+		"powermode.combo.threshold": 1,
+		"powermode.combo.timeout": 2,
+		"powermode.combo.location": "statusbar",
+		"diffEditor.ignoreTrimWhitespace": false,
+		"[jsonc]": {
+			"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+		},
+		"editor.fontFamily": "'CaskaydiaCove Nerd Font', Consolas, 'Courier New', monospace",
+		"editor.fontLigatures": true,
+		"workbench.settings.applyToAllProfiles": [
+			"editor.fontFamily"
+		],
+		"workbench.colorTheme": "One Dark Pro Flat",
+		"oneDarkPro.bold": true,
+		"oneDarkPro.vivid": true,
+		"oneDarkPro.editorTheme": "VS Code",
+		"editor.minimap.enabled": false,
+		"[yaml]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"prettier.printWidth": 120,
+		"[json]": {
+			"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+		},
+		"typescript.updateImportsOnFileMove.enabled": "always",
+		"javascript.updateImportsOnFileMove.enabled": "always",
+		"liveServer.settings.donotShowInfoMsg": true,
+		"liveServer.settings.donotVerifyTags": true,
+		"[javascript]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"prettier.bracketSameLine": true,
+		"editor.linkedEditing": true,
+		"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+		"editor.guides.bracketPairs": true,
+		"editor.stickyScroll.enabled": true,
+	}
+
+	
+}
